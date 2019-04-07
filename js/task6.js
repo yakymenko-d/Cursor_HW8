@@ -8,5 +8,4 @@
 let arr = [...Array(51).keys()];
 
 
-
 console.log(arr)
